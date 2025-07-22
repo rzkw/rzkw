@@ -22,7 +22,7 @@ Some things I've picked up or I'm currently learning:<br>
 
 I’m looking to collaborate on web dev projects, open-source contributions or anything you can think of!<br>
 
-🤙🏽 How to reach me: [My LinkedIn](https://www.linkedin.com/in/rizky-ramadhani3056/), or my [website](https://rizkys-portfolio.netlify.app/)!
+🤙🏽 How to reach me: [My LinkedIn](https://www.linkedin.com/in/rizky-ramadhani3056/), or my [website](https://www.walk-llc.com/)!
 
 <!---
 rzkw/rzkw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
