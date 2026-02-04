@@ -2,9 +2,9 @@
 
 
 
-Walkable is an independent venture focused on infrastructure, platform operations, and the transition from on-prem to cloud and hybrid architectures.
+Walkable is focused on infrastructure.
 
-This GitHub organisation documents hands-on work across systems administration, cloud platforms, containerisation, and deployment workflows. Repos are maintained as working projects, with an emphasis on clarity and reproducibility.
+Documenting hands-on work across systems administration, cloud platforms, containerisation, and deployment workflows. Repos are maintained as working projects, with an emphasis on clarity and reproducibility.
 
 ---
 
@@ -14,7 +14,7 @@ This GitHub organisation documents hands-on work across systems administration, 
 
 - Cloud and hybrid infrastructure 
 
-- Containerisation and app packaging
+- Containerisation 
 
 - Source control
 
