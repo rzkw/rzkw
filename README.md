@@ -20,13 +20,6 @@ Documenting hands-on work across systems administration, cloud platforms, contai
 
 - Networking fundamentals across local and cloud environments
 
-## Operating model
-
-Walkable LLC is a registered company. Repos are maintained as a professional portfolio and foundation for future infra-focused roles. Open to global infra and related roles including:
-
-- Linux/sysadmin
-- Cloud and hybrid IT
-- Container-based app operations
 
 ---
 
