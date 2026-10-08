@@ -25,6 +25,11 @@ Walkable is focused on infrastructure.
 - [Deploying a budget to OCI by Terraform](https://medium.com/@walkable-llc/deploying-a-budget-to-oci-by-terraform-faab5c664403?source=rss-274e4807a939------2)
 - [Terraform Docs with MCP-verified state and project-scoped agent configs](https://medium.com/@walkable-llc/terraform-docs-with-mcp-verified-state-and-project-scoped-agent-configs-078a2a41c94f?source=rss-274e4807a939------2)
 - [Allowing agent read-only access in OCI tenancy](https://medium.com/@walkable-llc/allowing-agent-read-only-access-in-oci-tenancy-bee62f464fee?source=rss-274e4807a939------2)
+- [Using ip route to configure two nodes](https://medium.com/@walkable-llc/using-ip-route-to-configure-two-nodes-f71a6ca5aabc?source=rss-274e4807a939------2)
+- [Importing my OCI VCN into Terraform via Object Storage bucket](https://medium.com/@walkable-llc/importing-my-oci-vcn-into-terraform-via-object-storage-bucket-023b89097f69?source=rss-274e4807a939------2)
+- [Setting a classic PAT for my GitHub MCP Server](https://medium.com/@walkable-llc/setting-a-classic-pat-for-my-github-mcp-server-8974e3cf2af8?source=rss-274e4807a939------2)
+- [Reviewing GitHub account security for agents](https://medium.com/@walkable-llc/reviewing-github-account-security-for-agents-0918b557fb03?source=rss-274e4807a939------2)
+- [Installing Docker via CLI and zsh](https://medium.com/@walkable-llc/installing-docker-via-cli-and-zsh-11318408ad7a?source=rss-274e4807a939------2)
 <!-- BLOG-POST-LIST:END -->
 
 
