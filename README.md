@@ -16,4 +16,14 @@ Walkable is focused on infrastructure.
   
 ---
 
+
+## Blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
+
+
 Check out some of my [other work](https://linktr.ee/rzkw). Contact via [LinkedIn](https://www.linkedin.com/in/rizkyr3056/), [or email](mailto:hello@walk-llc.com).
