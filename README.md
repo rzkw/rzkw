@@ -4,21 +4,13 @@
 Walkable is focused on infrastructure.
 
 
----
+## Tech Stack
 
+**Proficient in:** Git • Docker • Linux • Bash • GitHub • Networking (TCP/IP, DNS) • VS Code • macOS
 
-## Focus areas
+**Experienced with:** GitHub Actions • Oracle Cloud Infrastructure • YAML • AWS • Terraform • OpenCode • MCP (Model Context Protocol) • Slack • Claude
 
-- Linux
-
-- Containerisation 
-
-- Networking
-
-- CI/CD
-
-  
----
+**Exposure to:** Kubernetes • Jira • Cloudflare • Vercel • Grafana • Ansible • Azure • PowerShell • Python • JavaScript
 
 
 ## Blog
