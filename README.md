@@ -16,6 +16,7 @@ Walkable is focused on infrastructure.
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Fixing IaC security vulnerabilities in AWS with Checkov](https://medium.com/@walkable-llc/fixing-iac-security-vulnerabilities-in-aws-with-checkov-d442aa83b259?source=rss-274e4807a939------2)
 - [Auto approve/merge patch and minor npm updates](https://blog.devops.dev/auto-approve-merge-patch-and-minor-npm-updates-ed64ba0c4d00?source=rss-274e4807a939------2)
 - [Terraform state lock debugging with agents](https://medium.com/@walkable-llc/terraform-state-lock-debugging-with-agents-678fb71c0025?source=rss-274e4807a939------2)
 - [Deploying a budget to OCI by Terraform](https://medium.com/@walkable-llc/deploying-a-budget-to-oci-by-terraform-faab5c664403?source=rss-274e4807a939------2)
@@ -25,7 +26,6 @@ Walkable is focused on infrastructure.
 - [Importing my OCI VCN into Terraform via Object Storage bucket](https://medium.com/@walkable-llc/importing-my-oci-vcn-into-terraform-via-object-storage-bucket-023b89097f69?source=rss-274e4807a939------2)
 - [Setting a classic PAT for my GitHub MCP Server](https://medium.com/@walkable-llc/setting-a-classic-pat-for-my-github-mcp-server-8974e3cf2af8?source=rss-274e4807a939------2)
 - [Reviewing GitHub account security for agents](https://medium.com/@walkable-llc/reviewing-github-account-security-for-agents-0918b557fb03?source=rss-274e4807a939------2)
-- [Installing Docker via CLI and zsh](https://medium.com/@walkable-llc/installing-docker-via-cli-and-zsh-11318408ad7a?source=rss-274e4807a939------2)
 <!-- BLOG-POST-LIST:END -->
 
 
