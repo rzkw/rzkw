@@ -16,7 +16,7 @@ Walkable is focused on infrastructure.
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing IaC security vulnerabilities in AWS with Checkov](https://aws.plainenglish.io/fixing-iac-security-vulnerabilities-in-aws-with-checkov-d442aa83b259?source=rss-274e4807a939------2)
+- [Fixing IaC security vulnerabilities in AWS with Checkov](https://medium.com/@walkable-llc/fixing-iac-security-vulnerabilities-in-aws-with-checkov-d442aa83b259?source=rss-274e4807a939------2)
 - [Auto approve/merge patch and minor npm updates](https://blog.devops.dev/auto-approve-merge-patch-and-minor-npm-updates-ed64ba0c4d00?source=rss-274e4807a939------2)
 - [Terraform state lock debugging with agents](https://medium.com/@walkable-llc/terraform-state-lock-debugging-with-agents-678fb71c0025?source=rss-274e4807a939------2)
 - [Deploying a budget to OCI by Terraform](https://medium.com/@walkable-llc/deploying-a-budget-to-oci-by-terraform-faab5c664403?source=rss-274e4807a939------2)
